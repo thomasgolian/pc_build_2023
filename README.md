@@ -37,6 +37,35 @@ Final selection was:
   
   7)Unpacked mb, read some instructions to make sure I didn't miss anything. First step: insert the intel cpu, apply thermal paste in a 5-dot pattern, mount heat sink.
   ![](https://github.com/thomasgolian/pc_build_2023/blob/bef6b9f7326a6e75aed41578a2f69f95fba5bdee/pc%20build%2006.JPG)
+ 
+ 8) For good measure and practice, since I hadn't worn an anti-static band before, I used one when inserting cpu and RAM. Though unlikely to get ESD, I wore it anyone. Most of the time just touching metal case. I also forgot to take pictures of my thermal paste, but everything went smoothly. (and my cpu temp has been running fine low temperatures when under heavy gaming load, so I imagine my thermal paste application is correct and working as intended with the heat sink)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2007.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2008.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2009.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2011.JPG)
+ 
+ 9) Screwed heatsink onto motherboard after applying paste. 
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2012.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2014.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2015.JPG)
+ 
+ 10) After heat sink attached, I attached the clip-on 120mm fan to the side of the heat sink, intaking air from case and blowing through the metal fins, exhausting the air directly into the airflow path of the rear case fan. With the clip-on fan attached to the heatsink, I can use 3 of 4 RAM slots. If I ever need the 4th RAM slot closest to the cpu, I'll need to remove the heatsink fan, which would be probably be fine given the good airflow already.
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2016.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2017.JPG)
+ 
+ 11) Mounted mb properly to case. I installed the GPU (although I later replaced with a different one, as well as more cable management to clean up case interior). Properly connected all power cables to power supply that resides in lower case compartment. Having the power supply underneath and out of the way, makes the interior of the case nice and clean, neat, and nice to look at! Booted up power and UEFI/BIOS to check integrity. 
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2018.JPG)
+ 
+ 12) Cable Management. This case like many others recently have nice side enclosed panel to direct cable/cord flow to the side compartment, minimizing how many wires are clogging up the interior motherboard space. This was the first case I owned with this type of cable management, and it was super fun to optimize cable management and make everything clean. A few adjustments over time were added to continue to managed cables. 
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2019.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2021.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2022.JPG)
+ 
+ 13)Replaced rear default black fan with a rgb 120mm fan.
+ ![](
+ 
+ 
+ 
   
   
 
