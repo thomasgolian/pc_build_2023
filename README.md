@@ -62,7 +62,47 @@ Final selection was:
  ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2022.JPG)
  
  13)Replaced rear default black fan with a rgb 120mm fan.
- ![](
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2025.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2024.JPG)
+ 
+ 14) installing nvidia 3070ti. Nothing too crazy. Solid mid level current gpu with plenty of graphics power for what I need. I only game on occasion, so this gpu investment is plenty for what I want. Although, I'll probably get something 'beefier' in 3-5 years.
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2026.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2029.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2031.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2033.JPG) 
+ 
+ 15) Fired up the UEFI again, made sure everything was good. I also customized my fans curse. Minimized fan speeds to minimum and the curve only increases fan speeds when the CPU and GPU get hot enough. Goal is to make fans last as long as possible, and decrease noise. The fans run at around 600rpms when cpu is idle, and range up to 1200rpm when under load. The 140mm fans run slightly slower than the 120mm fans because the larger fans push more air. Thus to create balanced airflow from intake to exhaust, I customized curves to make sure there was a slightly higher intake than exhaust if anything. Nice and balanaced. I did not want to create any negative airflow. Positive airflow for this build. 
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2034.JPG)
+
+ 16) At this point, I finished the build. Plenty of exta slots, compartments, storage area for more drives, plenty of mb slots for more RAM, more M.2 slots, plenty of room and choices to tinker with the build in the future! The rest of the images below are different RGB color combos! Normally, I like minimum rgb, because too much lighting can be gaudy! Nonetheless, I was excited and took some different photos with different lighting combinations. fun! Everything with the build went smoothly with no issues. 
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2035%20rainbow.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2036.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2037%20no%20rgb.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2038%20no%20rgb.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2039%20no%20rgb.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2041.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2043%20blue.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2044%20blue.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2045%20bluie.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2046%20blue.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2047%20tempered%20glass.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2048.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2051%20green.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2053%20study.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2054%20purple.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2055%20red.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2057%20outer%20wilds.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2059.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2060.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2061.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2062.JPG)
+ ![](https://github.com/thomasgolian/pc_build_2023/blob/e7b4fd67ee344557defa63f1417af6274d93b4fb/pc%20build%2064.JPG)
+
+ End.
+ 
+ 
+ 
+ 
  
  
  
