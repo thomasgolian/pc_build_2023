@@ -5,4 +5,4 @@ My new PC rig at home for work, virtualization, &amp; gaming! A modest mid-level
 Final selection was:
 
 And the GPU in photo below (gigabyte 3060) wasn't quite big enough for what I wanted - returned & changed GPU to a nvidia 3070ti 
-![](https://github.com/thomasgolian/pc_build_2023/blob/67b6b50cac5019f8b5c347b2ea11515d9b0df227/pc%20build%20(20).JPG) 
+![](https://github.com/thomasgolian/pc_build_2023/blob/787b4883d852d7b7985d445d97d6e121b8441895/pc%20build%2001.JPG) 
