@@ -1,11 +1,14 @@
 # pc_build_2023
-*Scroll down to view build process w/ photos.* My new PC rig at home for homelabbing, virtualization, &amp; gaming. A modest mid-level ATX mid-size tower build, intel mb. I hadn't had a tower pc for over 5 years, so this was my first tower in a while. I was so excited that I built everything in less than 48 hours, even though I was rusty! This motherboard is LGA 1700 intel socket, and I built PC with upgrade path in mind = upgrade to a Intel 13th gen i7 or i9 in a few years, along with a new gpu. Might have to replace power supply for one with more watts, depending on how much power the new cpu and gpu require, when I upgrade in future. 
+*Scroll down to view build process w/ photos.* 
+
+<p>My recent PC build for homelabbing, virtualization different operating systems, &amp; gaming. A modest mid-level ATX/mid-size tower build, intel mb. I built it in less than 48 hours. 
+
+ <p>The motherboard is LGA 1700 intel socket, and I built the home PC with this upgrade path in mind: Upgrade to a Intel 13th gen i7 or i9 CPU in a few years, along with a new gpu. Might have to replace power supply for one with more watts, depending on how much power the new cpu and gpu require when upgrading. 
+
+<p>1) Selecting hardware components: I build this PC while studying for the CompTIA A+ and it was a short-timeframe quick build... Meaning the primary goal was to get a pc built up-and-running quickly, and I did not spend time shopping for best prices. I wanted to complete it quickly. 
 
 
-1) Selecting hardware components: I build this PC while studying for the CompTIA A+ and it was a short-timeframe build... Meaning the primary goal was to get a pc built up-and-running quickly, with little time to shop for the best component & price. Speed > optimum build and price for this project. I shopped for components in less than 48 hours.
-
-
-Final selection was:
+the rig/final selection:
 <p>12th gen Intel core i5-12400 cpu
 <p>nvidia geforce RTX 3070ti 
 <p>corsair rgb 120mm x1 fan
@@ -53,7 +56,7 @@ Final selection was:
   ![](https://github.com/thomasgolian/pc_build_2023/blob/bef6b9f7326a6e75aed41578a2f69f95fba5bdee/pc%20build%2006.JPG)
  
  
- 8) For good measure and practice, since I hadn't worn an anti-static band before, I used one when inserting cpu and RAM. Though unlikely to get ESD, I wore it anyone. Most of the time just touching metal case. I also forgot to take pictures of my thermal paste, but everything went smoothly. (and my cpu temp has been running fine low temperatures when under heavy gaming load, so I imagine my thermal paste application is correct and working as intended with the heat sink)
+ 8) For good measure and practice, I used wrist band when inserting cpu and RAM. Unlikely to get ESD but I wore it anyway. Most of the time just touching metal case. I also forgot to take pictures of my thermal paste, but everything went smoothly. (and my cpu temp has been running fine low temperatures when under heavy gaming load, so I imagine my thermal paste application is correct and working as intended with the heat sink)
  ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2007.JPG)
  
  ![](https://github.com/thomasgolian/pc_build_2023/blob/7d04f986246bd2878d9f924d84660639a8a6161a/pc%20build%2008.JPG)
