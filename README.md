@@ -25,8 +25,7 @@
  
  
 2) Started build
- 
-![](https://github.com/thomasgolian/pc_build_2023/blob/787b4883d852d7b7985d445d97d6e121b8441895/pc%20build%2001.JPG) 
+ <img src="https://github.com/thomasgolian/pc_build_2023/blob/787b4883d852d7b7985d445d97d6e121b8441895/pc%20build%2001.JPG" width=50% height=50%>
 
   3) Started with case. Removed both default 120mm default fans. Installed 2x 140mm fans in front-side panel for air intake. Installed 2x 120mm exhaust fans: one on the back-side and one on top. Nice air path through chassis. 
  
