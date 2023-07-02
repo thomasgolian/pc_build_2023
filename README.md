@@ -27,12 +27,12 @@
 2) Started build
  <img src="https://github.com/thomasgolian/pc_build_2023/blob/787b4883d852d7b7985d445d97d6e121b8441895/pc%20build%2001.JPG" width=50% height=50%>
 
-  3) Started with case. Removed both default 120mm default fans. Installed 2x 140mm fans in front-side panel for air intake. Installed 2x 120mm exhaust fans: one on the back-side and one on top. Nice air path through chassis. 
- 
-  ![](https://github.com/thomasgolian/pc_build_2023/blob/bef6b9f7326a6e75aed41578a2f69f95fba5bdee/pc%20build%2002.JPG)
- 
+
+  3) Started with case. Removed both default 120mm default fans. Installed 2x 140mm fans in front-side panel for air intake. Installed 2x 120mm exhaust fans: one on the back-side and one on top. Nice air path through chassis.
+
+  <img src="[https://github.com/thomasgolian/pc_build_2023/blob/787b4883d852d7b7985d445d97d6e121b8441895/pc%20build%2001.JPG](https://github.com/thomasgolian/pc_build_2023/blob/bef6b9f7326a6e75aed41578a2f69f95fba5bdee/pc%20build%2002.JPG)" width=50% height=50%>
   
-  4) The 4000D case has great airflow on all sides of the chassis. The top has a magnetic filter screen that you can keep or remove (I remove it when PC is on because I have top exhaust fan, put it back on when PC is off to keep unnecessary dust out). Stores nicely underneath tower. 
+  5) The 4000D case has great airflow on all sides of the chassis. The top has a magnetic filter screen that you can keep or remove (I remove it when PC is on because I have top exhaust fan, put it back on when PC is off to keep unnecessary dust out). Stores nicely underneath tower. 
  
   ![](https://github.com/thomasgolian/pc_build_2023/blob/bef6b9f7326a6e75aed41578a2f69f95fba5bdee/pc%20build%2003.JPG)
  
